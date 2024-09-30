@@ -1,0 +1,12 @@
+C:\Users\vanya\source\repos\KalmykovGroup\KalmykovGroup.Core\bin\Debug\net8.0\KalmykovGroup.Core.deps.json
+C:\Users\vanya\source\repos\KalmykovGroup\KalmykovGroup.Core\bin\Debug\net8.0\KalmykovGroup.Core.dll
+C:\Users\vanya\source\repos\KalmykovGroup\KalmykovGroup.Core\bin\Debug\net8.0\KalmykovGroup.Core.pdb
+C:\Users\vanya\source\repos\KalmykovGroup\KalmykovGroup.Core\obj\Debug\net8.0\KalmykovGroup.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vanya\source\repos\KalmykovGroup\KalmykovGroup.Core\obj\Debug\net8.0\KalmykovGroup.Core.AssemblyInfoInputs.cache
+C:\Users\vanya\source\repos\KalmykovGroup\KalmykovGroup.Core\obj\Debug\net8.0\KalmykovGroup.Core.AssemblyInfo.cs
+C:\Users\vanya\source\repos\KalmykovGroup\KalmykovGroup.Core\obj\Debug\net8.0\KalmykovGroup.Core.csproj.CoreCompileInputs.cache
+C:\Users\vanya\source\repos\KalmykovGroup\KalmykovGroup.Core\obj\Debug\net8.0\KalmykovGroup.Core.sourcelink.json
+C:\Users\vanya\source\repos\KalmykovGroup\KalmykovGroup.Core\obj\Debug\net8.0\KalmykovGroup.Core.dll
+C:\Users\vanya\source\repos\KalmykovGroup\KalmykovGroup.Core\obj\Debug\net8.0\refint\KalmykovGroup.Core.dll
+C:\Users\vanya\source\repos\KalmykovGroup\KalmykovGroup.Core\obj\Debug\net8.0\KalmykovGroup.Core.pdb
+C:\Users\vanya\source\repos\KalmykovGroup\KalmykovGroup.Core\obj\Debug\net8.0\ref\KalmykovGroup.Core.dll

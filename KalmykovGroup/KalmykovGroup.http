@@ -1,0 +1,6 @@
+@KalmykovGroup_HostAddress = http://localhost:5055
+
+GET {{KalmykovGroup_HostAddress}}/product/page/1
+Accept: application/json
+
+###
